@@ -1,13 +1,12 @@
 
 The goal of this task is to explore and implement Support Vector Machines (SVM) for both linear and non-linear binary classification using Scikit-learn. You'll learn about the margin maximization principle, the kernel trick, and hyperparameter tuning using real-world datasets.
-Load and prepare a dataset for binary classification (e.g., Breast Cancer Dataset).
 Train SVM models:
 With Linear Kernel
 With RBF Kernel
-Visualize decision boundaries using 2D data (for better understanding).
+Visualize decision boundaries using 2D data 
 Tune hyperparameters:
-C (Regularization parameter)
-gamma (Kernel coefficient for ‘rbf’)
+C 
+gamma 
 Use Cross-Validation to evaluate model performance.
  Tools and Libraries Used
 Python
